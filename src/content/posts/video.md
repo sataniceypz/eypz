@@ -16,12 +16,12 @@ published: 2024-05-12
 // ...
 ---
 
-<iframe width="100%" height="468" src="https://youtu.be/t5i-FFf6f5M?si=95mKQac3kRtretJ2" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="468" src="https://youtu.be/PTl1EKfqEeY?si=ofl9-vNF4eIv5dnp" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 ```
 
 ## YouTube
 
-<iframe width="100%" height="468" src="https://youtu.be/t5i-FFf6f5M?si=95mKQac3kRtretJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="468" src="https://youtu.be/PTl1EKfqEeY?si=ofl9-vNF4eIv5dnp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Bilibili
 
