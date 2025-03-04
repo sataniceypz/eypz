@@ -46,16 +46,16 @@ export const profileConfig: ProfileConfig = {
   bio: 'Hey i am Eypz.',
   links: [
     {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter',       // Visit https://icones.js.org/ for icon codes
+      name: 'Instagram',
+      icon: 'fa6-brands: instagram',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://twitter.com',
+      url: 'https://instagram.com/11.000.2222',
     },
     {
       name: 'Steam',
       icon: 'fa6-brands:whatsapp',
-      url: 'https://wa.me/message/IU2AC4VHJADIF1',
+      url: 'https://wa.me/917902624272',
     },
     {
       name: 'GitHub',
