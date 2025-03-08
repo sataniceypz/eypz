@@ -1,10 +1,10 @@
 {
-  "name": "fuwari",
+  "name": "eypz",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
+    "dev": "Eypz dev",
+    "start": "eypz dev",
     "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro",
